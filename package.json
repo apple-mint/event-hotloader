@@ -1,0 +1,19 @@
+{
+  "name": "event-hotloader",
+  "version": "1.0.0",
+  "description": "Script snippet that automatically restarts the page on an event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apple-mint/event-hotloader.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/apple-mint/event-hotloader/issues"
+  },
+  "homepage": "https://github.com/apple-mint/event-hotloader#readme"
+}
